@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=GPIO13 Pin=*-18
+Removed Pin From Net: NetName=GPIO12 Pin=*-19
+Removed Pin From Net: NetName=GPIO14 Pin=*-20
+Removed Pin From Net: NetName=GPIO26 Pin=*-22
+Removed Pin From Net: NetName=GPIO25 Pin=*-23
+Removed Pin From Net: NetName=GPIO33 Pin=*-24
+Added Pin To Net: NetName=GPIO33 Pin=*-18
+Added Pin To Net: NetName=GPIO25 Pin=*-19
+Added Pin To Net: NetName=GPIO26 Pin=*-20
+Added Pin To Net: NetName=GPIO14 Pin=*-22
+Added Pin To Net: NetName=GPIO12 Pin=*-23
+Added Pin To Net: NetName=GPIO13 Pin=*-24
+Add Class Member: Failed to add class member : Component H? áp MP1584EN
+Add Class Member: Failed to add class member : Component LEFT Encoder
+Add Class Member: Failed to add class member : Component Pin
+Add Class Member: Failed to add class member : Component RFID? RFID2
+Add Class Member: Failed to add class member : Component RIGHT Encoder
+Added Member To Class: ClassName=Sheet2 Member=Component  Switch

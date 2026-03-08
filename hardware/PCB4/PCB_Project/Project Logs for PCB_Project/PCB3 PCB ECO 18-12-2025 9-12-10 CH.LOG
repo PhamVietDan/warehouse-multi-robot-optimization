@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=3V3 Pin=-2
+Removed Pin From Net: NetName=3V3 Pin=LEFT-VCC
+Removed Pin From Net: NetName=3V3 Pin=RIGHT-VCC
+Change Component Designator: OldDesignator= NewDesignator=Công T?c
+Change Component Designator: OldDesignator= NewDesignator=H? áp
+Change Component Designator: OldDesignator= NewDesignator=Pin
+Change Net Name : Old Net Name=VCC New Net Name=5V
+Added Pin To Net: NetName=VCC Pin=Công T?c-2
+Added Pin To Net: NetName=VCC Pin=ESP32-16
+Added Pin To Net: NetName=VCC Pin=LEFT-VCC
+Added Pin To Net: NetName=VCC Pin=RIGHT-VCC
+Added Net: Name=VCC
+Added Member To Class: ClassName=Sheet2 Member=Component Công T?c Switch
+Added Member To Class: ClassName=Sheet2 Member=Component H? áp MP1584EN
+Added Member To Class: ClassName=Sheet2 Member=Component Pin

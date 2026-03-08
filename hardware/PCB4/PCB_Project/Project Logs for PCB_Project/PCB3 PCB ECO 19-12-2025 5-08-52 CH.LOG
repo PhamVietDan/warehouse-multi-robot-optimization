@@ -1,0 +1,55 @@
+Removed Pin From Net: NetName=GPIO18 Pin=RIGHT-C1
+Removed Pin From Net: NetName=GPIO19 Pin=RIGHT-C2
+Change Component Comment : Designator=10kR1 Old Comment=10kR New Comment=5kR
+Change Component Comment : Designator=10kR2 Old Comment=10kR New Comment=5kR
+Change Component Comment : Designator=10kR3 Old Comment=10kR New Comment=5kR
+Change Component Comment : Designator=10kR4 Old Comment=10kR New Comment=5kR
+Change Component Comment : Designator=10kR5 Old Comment=10kR New Comment=5kR
+Change Component Comment : Designator=150R1 Old Comment=150R New Comment=300R
+Change Component Comment : Designator=150R2 Old Comment=150R New Comment=300R
+Change Component Comment : Designator=150R3 Old Comment=150R New Comment=300R
+Change Component Comment : Designator=150R4 Old Comment=150R New Comment=300R
+Change Component Comment : Designator=150R5 Old Comment=150R New Comment=300R
+Change Component Designator: OldDesignator= NewDesignator=H? áp
+Change Component Designator: OldDesignator=10kR1 NewDesignator=5kR1
+Change Component Designator: OldDesignator=10kR2 NewDesignator=5kR2
+Change Component Designator: OldDesignator=10kR3 NewDesignator=5kR3
+Change Component Designator: OldDesignator=10kR4 NewDesignator=5kR4
+Change Component Designator: OldDesignator=10kR5 NewDesignator=5kR5
+Change Component Designator: OldDesignator=150R1 NewDesignator=300R1
+Change Component Designator: OldDesignator=150R2 NewDesignator=300R2
+Change Component Designator: OldDesignator=150R3 NewDesignator=300R3
+Change Component Designator: OldDesignator=150R4 NewDesignator=300R4
+Change Component Designator: OldDesignator=150R5 NewDesignator=300R5
+Added Component: Designator=RFID?(Headerx8)
+Added Component: Designator=RFID?(RFID)
+Added Component: Designator=RFID?(header_femalex8)
+Added Pin To Net: NetName=3V3 Pin=RFID?-1
+Added Pin To Net: NetName=GND Pin=RFID?-3
+Added Pin To Net: NetName=GPIO19 Pin=RFID?-5
+Added Pin To Net: NetName=GPIO18 Pin=RFID?-7
+Change Net Name : Old Net Name=Net150R1_2 New Net Name=Net300R1_2
+Change Net Name : Old Net Name=Net150R2_2 New Net Name=Net300R2_2
+Change Net Name : Old Net Name=Net150R3_2 New Net Name=Net300R3_2
+Change Net Name : Old Net Name=Net150R4_2 New Net Name=Net300R4_2
+Change Net Name : Old Net Name=Net150R5_2 New Net Name=Net300R5_2
+Added Pin To Net: NetName=GPIO4 Pin=ESP32-5
+Added Pin To Net: NetName=GPIO4 Pin=RFID?-2
+Added Net: Name=GPIO4
+Added Pin To Net: NetName=GPIO5 Pin=ESP32-8
+Added Pin To Net: NetName=GPIO5 Pin=RFID?-8
+Added Net: Name=GPIO5
+Added Pin To Net: NetName=GPIO21 Pin=ESP32-11
+Added Pin To Net: NetName=GPIO21 Pin=RIGHT-C1
+Added Net: Name=GPIO21
+Added Pin To Net: NetName=GPIO22 Pin=ESP32-14
+Added Pin To Net: NetName=GPIO22 Pin=RIGHT-C2
+Added Net: Name=GPIO22
+Added Pin To Net: NetName=GPIO23 Pin=ESP32-15
+Added Pin To Net: NetName=GPIO23 Pin=RFID?-6
+Added Net: Name=GPIO23
+Added Member To Class: ClassName=Sheet2 Member=Component H? áp MP1584EN
+Added Member To Class: ClassName=Sheet2 Member=Component RFID? RFID
+Added Member To Class: ClassName=Sheet2 Member=Component RFID? RFID1
+Added Member To Class: ClassName=Sheet2 Member=Component RFID? RFID2
+Added Member To Class: ClassName=Sheet2 Member=Component  Switch

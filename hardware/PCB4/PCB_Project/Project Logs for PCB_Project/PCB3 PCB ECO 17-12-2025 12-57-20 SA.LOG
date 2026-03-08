@@ -1,0 +1,4 @@
+Added Component: Designator=NE1(N20E)
+Added Component: Designator=NE2(N20E)
+Added Member To Class: ClassName=Sheet2 Member=Component NE1 N20E
+Added Member To Class: ClassName=Sheet2 Member=Component NE2 N20E

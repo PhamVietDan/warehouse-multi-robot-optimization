@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=3V3 Pin=-1
+Removed Pin From Net: NetName=GPIO4 Pin=-2
+Removed Pin From Net: NetName=GND Pin=-3
+Removed Pin From Net: NetName=GPIO19 Pin=-5
+Removed Pin From Net: NetName=GPIO23 Pin=-6
+Removed Pin From Net: NetName=GPIO18 Pin=-7
+Removed Pin From Net: NetName=GPIO5 Pin=-8
+Added Component: Designator=RFID?(RFID)
+Added Pin To Net: NetName=3V3 Pin=RFID?-1
+Added Pin To Net: NetName=GPIO4 Pin=RFID?-2
+Added Pin To Net: NetName=GND Pin=RFID?-3
+Added Pin To Net: NetName=GPIO19 Pin=RFID?-5
+Added Pin To Net: NetName=GPIO23 Pin=RFID?-6
+Added Pin To Net: NetName=GPIO18 Pin=RFID?-7
+Added Pin To Net: NetName=GPIO5 Pin=RFID?-8
+Add Class Member: Failed to add class member : Component H? áp MP1584EN
+Add Class Member: Failed to add class member : Component LEFT Encoder
+Add Class Member: Failed to add class member : Component Pin
+Added Member To Class: ClassName=Sheet2 Member=Component RFID? RFID
+Add Class Member: Failed to add class member : Component RIGHT Encoder

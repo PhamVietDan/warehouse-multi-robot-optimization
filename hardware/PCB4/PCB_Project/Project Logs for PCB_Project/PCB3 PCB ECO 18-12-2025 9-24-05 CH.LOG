@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=3V3 Pin=TB6612-VCC
+Change Component Designator: OldDesignator= NewDesignator=Công T?c
+Change Component Designator: OldDesignator= NewDesignator=H? áp
+Added Pin To Net: NetName=VCC Pin=TB6612-VCC
+Added Member To Class: ClassName=Sheet2 Member=Component H? áp MP1584EN
+Added Member To Class: ClassName=Sheet2 Member=Component NE1 N20E

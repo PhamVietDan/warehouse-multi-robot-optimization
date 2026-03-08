@@ -1,0 +1,9 @@
+Change Component Comment : Designator= Old Comment= New Comment=RFID2
+Change Component Designator: OldDesignator= NewDesignator=H? áp
+Change Component Designator: OldDesignator= NewDesignator=RFID?
+Change Component Designator: OldDesignator=RFID NewDesignator=RFID?
+Added Component: Designator=RFID?(Headerx8)
+Added Member To Class: ClassName=Sheet2 Member=Component H? áp MP1584EN
+Added Member To Class: ClassName=Sheet2 Member=Component RFID? RFID1
+Added Member To Class: ClassName=Sheet2 Member=Component RFID? RFID2
+Added Member To Class: ClassName=Sheet2 Member=Component  Switch

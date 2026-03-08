@@ -1,0 +1,180 @@
+Added Component: Designator=*?(TCR5000)
+Added Component: Designator=*?(TCR5000)
+Added Component: Designator=*?(TCR5000)
+Added Component: Designator=*?(TCR5000)
+Added Component: Designator=*?(TCR5000)
+Added Component: Designator=10kR1(CMD)
+Added Component: Designator=10kR2(CMD)
+Added Component: Designator=10kR3(CMD)
+Added Component: Designator=10kR4(CMD)
+Added Component: Designator=10kR5(CMD)
+Added Component: Designator=150R1(CMD)
+Added Component: Designator=150R2(CMD)
+Added Component: Designator=150R3(CMD)
+Added Component: Designator=150R4(CMD)
+Added Component: Designator=150R5(CMD)
+Added Component: Designator=Công T?c(Switch)
+Added Component: Designator=ESP32(ESP32 30)
+Added Component: Designator=H? áp(MP1584EN)
+Added Component: Designator=LEFT(Encoder)
+Added Component: Designator=Pin(Pin)
+Added Component: Designator=RIGHT(Encoder)
+Added Component: Designator=TB6612(TB6612)
+Added Component: Designator=Vl5310X(Pin6X)
+Added Pin To Net: NetName=3V3 Pin=10kR1-2
+Added Pin To Net: NetName=3V3 Pin=10kR2-2
+Added Pin To Net: NetName=3V3 Pin=10kR3-2
+Added Pin To Net: NetName=3V3 Pin=10kR4-2
+Added Pin To Net: NetName=3V3 Pin=10kR5-2
+Added Pin To Net: NetName=3V3 Pin=150R1-1
+Added Pin To Net: NetName=3V3 Pin=150R2-1
+Added Pin To Net: NetName=3V3 Pin=150R3-1
+Added Pin To Net: NetName=3V3 Pin=150R4-1
+Added Pin To Net: NetName=3V3 Pin=150R5-1
+Added Pin To Net: NetName=3V3 Pin=Công T?c-2
+Added Pin To Net: NetName=3V3 Pin=ESP32-1
+Added Pin To Net: NetName=3V3 Pin=LEFT-VCC
+Added Pin To Net: NetName=3V3 Pin=RIGHT-VCC
+Added Pin To Net: NetName=3V3 Pin=TB6612-VCC
+Added Pin To Net: NetName=3V3 Pin=Vl5310X-VCC
+Added Net: Name=3V3
+Added Pin To Net: NetName=7.4V Pin=H? áp-5
+Added Pin To Net: NetName=7.4V Pin=Pin-1
+Added Pin To Net: NetName=7.4V Pin=TB6612-VM
+Added Net: Name=7.4V
+Added Pin To Net: NetName=A01 Pin=LEFT-M1
+Added Pin To Net: NetName=A01 Pin=TB6612-A01
+Added Net: Name=A01
+Added Pin To Net: NetName=A02 Pin=LEFT-M2
+Added Pin To Net: NetName=A02 Pin=TB6612-A02
+Added Net: Name=A02
+Added Pin To Net: NetName=B01 Pin=RIGHT-M1
+Added Pin To Net: NetName=B01 Pin=TB6612-B01
+Added Net: Name=B01
+Added Pin To Net: NetName=B02 Pin=RIGHT-M2
+Added Pin To Net: NetName=B02 Pin=TB6612-B02
+Added Net: Name=B02
+Added Pin To Net: NetName=GND Pin=*?-2
+Added Pin To Net: NetName=GND Pin=*?-2
+Added Pin To Net: NetName=GND Pin=*?-2
+Added Pin To Net: NetName=GND Pin=*?-2
+Added Pin To Net: NetName=GND Pin=*?-2
+Added Pin To Net: NetName=GND Pin=*?-3
+Added Pin To Net: NetName=GND Pin=*?-3
+Added Pin To Net: NetName=GND Pin=*?-3
+Added Pin To Net: NetName=GND Pin=*?-3
+Added Pin To Net: NetName=GND Pin=*?-3
+Added Pin To Net: NetName=GND Pin=ESP32-2
+Added Pin To Net: NetName=GND Pin=H? áp-4
+Added Pin To Net: NetName=GND Pin=H? áp-8
+Added Pin To Net: NetName=GND Pin=LEFT-GND
+Added Pin To Net: NetName=GND Pin=Pin-2
+Added Pin To Net: NetName=GND Pin=RIGHT-GND
+Added Pin To Net: NetName=GND Pin=TB6612-GND
+Added Pin To Net: NetName=GND Pin=TB6612-GND
+Added Pin To Net: NetName=GND Pin=TB6612-GND
+Added Pin To Net: NetName=GND Pin=Vl5310X-GND
+Added Net: Name=GND
+Added Pin To Net: NetName=GPIO4 Pin=ESP32-5
+Added Pin To Net: NetName=GPIO4 Pin=Vl5310X-XSHUT
+Added Net: Name=GPIO4
+Added Pin To Net: NetName=GPIO12 Pin=ESP32-19
+Added Pin To Net: NetName=GPIO12 Pin=TB6612-BIN1
+Added Net: Name=GPIO12
+Added Pin To Net: NetName=GPIO13 Pin=ESP32-18
+Added Pin To Net: NetName=GPIO13 Pin=TB6612-BIN2
+Added Net: Name=GPIO13
+Added Pin To Net: NetName=GPIO14 Pin=ESP32-20
+Added Pin To Net: NetName=GPIO14 Pin=TB6612-PWMB
+Added Net: Name=GPIO14
+Added Pin To Net: NetName=GPIO16 Pin=ESP32-6
+Added Pin To Net: NetName=GPIO16 Pin=LEFT-C1
+Added Net: Name=GPIO16
+Added Pin To Net: NetName=GPIO17 Pin=ESP32-7
+Added Pin To Net: NetName=GPIO17 Pin=LEFT-C2
+Added Net: Name=GPIO17
+Added Pin To Net: NetName=GPIO18 Pin=ESP32-9
+Added Pin To Net: NetName=GPIO18 Pin=RIGHT-C1
+Added Net: Name=GPIO18
+Added Pin To Net: NetName=GPIO19 Pin=ESP32-10
+Added Pin To Net: NetName=GPIO19 Pin=RIGHT-C2
+Added Net: Name=GPIO19
+Added Pin To Net: NetName=GPIO21 Pin=ESP32-11
+Added Pin To Net: NetName=GPIO21 Pin=Vl5310X-SDA
+Added Net: Name=GPIO21
+Added Pin To Net: NetName=GPIO22 Pin=ESP32-14
+Added Pin To Net: NetName=GPIO22 Pin=Vl5310X-SCL
+Added Net: Name=GPIO22
+Added Pin To Net: NetName=GPIO23 Pin=ESP32-15
+Added Pin To Net: NetName=GPIO23 Pin=TB6612-STBY
+Added Net: Name=GPIO23
+Added Pin To Net: NetName=GPIO25 Pin=ESP32-23
+Added Pin To Net: NetName=GPIO25 Pin=TB6612-PWMA
+Added Net: Name=GPIO25
+Added Pin To Net: NetName=GPIO26 Pin=ESP32-22
+Added Pin To Net: NetName=GPIO26 Pin=TB6612-AIN1
+Added Net: Name=GPIO26
+Added Pin To Net: NetName=GPIO27 Pin=ESP32-21
+Added Pin To Net: NetName=GPIO27 Pin=TB6612-AIN2
+Added Net: Name=GPIO27
+Added Pin To Net: NetName=Net150R1_2 Pin=150R1-2
+Added Pin To Net: NetName=Net150R1_2 Pin=*?-4
+Added Net: Name=Net150R1_2
+Added Pin To Net: NetName=Net150R2_2 Pin=150R2-2
+Added Pin To Net: NetName=Net150R2_2 Pin=*?-4
+Added Net: Name=Net150R2_2
+Added Pin To Net: NetName=Net150R3_2 Pin=150R3-2
+Added Pin To Net: NetName=Net150R3_2 Pin=*?-4
+Added Net: Name=Net150R3_2
+Added Pin To Net: NetName=Net150R4_2 Pin=150R4-2
+Added Pin To Net: NetName=Net150R4_2 Pin=*?-4
+Added Net: Name=Net150R4_2
+Added Pin To Net: NetName=Net150R5_2 Pin=150R5-2
+Added Pin To Net: NetName=Net150R5_2 Pin=*?-4
+Added Net: Name=Net150R5_2
+Added Pin To Net: NetName=S1 Pin=10kR1-1
+Added Pin To Net: NetName=S1 Pin=10kR2-1
+Added Pin To Net: NetName=S1 Pin=10kR3-1
+Added Pin To Net: NetName=S1 Pin=10kR4-1
+Added Pin To Net: NetName=S1 Pin=10kR5-1
+Added Pin To Net: NetName=S1 Pin=*?-1
+Added Pin To Net: NetName=S1 Pin=*?-1
+Added Pin To Net: NetName=S1 Pin=*?-1
+Added Pin To Net: NetName=S1 Pin=*?-1
+Added Pin To Net: NetName=S1 Pin=*?-1
+Added Pin To Net: NetName=S1 Pin=ESP32-24
+Added Net: Name=S1
+Added Pin To Net: NetName=S2 Pin=ESP32-25
+Added Net: Name=S2
+Added Pin To Net: NetName=S3 Pin=ESP32-26
+Added Net: Name=S3
+Added Pin To Net: NetName=S4 Pin=ESP32-27
+Added Net: Name=S4
+Added Pin To Net: NetName=S5 Pin=ESP32-28
+Added Net: Name=S5
+Added Pin To Net: NetName=VCC Pin=Công T?c-1
+Added Pin To Net: NetName=VCC Pin=H? áp-1
+Added Net: Name=VCC
+Added Member To Class: ClassName=Sheet2 Member=Component *? TCR5000
+Added Member To Class: ClassName=Sheet2 Member=Component *? TCR5000
+Added Member To Class: ClassName=Sheet2 Member=Component *? TCR5000
+Added Member To Class: ClassName=Sheet2 Member=Component *? TCR5000
+Added Member To Class: ClassName=Sheet2 Member=Component *? TCR5000
+Added Member To Class: ClassName=Sheet2 Member=Component 10kR1 10kR
+Added Member To Class: ClassName=Sheet2 Member=Component 10kR2 10kR
+Added Member To Class: ClassName=Sheet2 Member=Component 10kR3 10kR
+Added Member To Class: ClassName=Sheet2 Member=Component 10kR4 10kR
+Added Member To Class: ClassName=Sheet2 Member=Component 10kR5 10kR
+Added Member To Class: ClassName=Sheet2 Member=Component 150R1 150R
+Added Member To Class: ClassName=Sheet2 Member=Component 150R2 150R
+Added Member To Class: ClassName=Sheet2 Member=Component 150R3 150R
+Added Member To Class: ClassName=Sheet2 Member=Component 150R4 150R
+Added Member To Class: ClassName=Sheet2 Member=Component 150R5 150R
+Added Member To Class: ClassName=Sheet2 Member=Component Công T?c Switch
+Added Member To Class: ClassName=Sheet2 Member=Component ESP32 ESP32 30
+Added Member To Class: ClassName=Sheet2 Member=Component H? áp MP1584EN
+Added Member To Class: ClassName=Sheet2 Member=Component LEFT Encoder
+Added Member To Class: ClassName=Sheet2 Member=Component Pin
+Added Member To Class: ClassName=Sheet2 Member=Component RIGHT Encoder
+Added Member To Class: ClassName=Sheet2 Member=Component TB6612
+Added Member To Class: ClassName=Sheet2 Member=Component Vl5310X Pin6x

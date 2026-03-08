@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=GND Pin=ESP32-2
+Added Pin To Net: NetName=GND Pin=ESP32-17

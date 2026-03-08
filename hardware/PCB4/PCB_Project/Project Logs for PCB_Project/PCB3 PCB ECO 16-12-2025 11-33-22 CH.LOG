@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=GPIO14 Pin=TB6612-AIN1
+Removed Pin From Net: NetName=GPIO12 Pin=TB6612-AIN2
+Removed Pin From Net: NetName=GPIO26 Pin=TB6612-BIN1
+Removed Pin From Net: NetName=GPIO25 Pin=TB6612-BIN2
+Removed Pin From Net: NetName=GPIO13 Pin=TB6612-PWMA
+Removed Pin From Net: NetName=GPIO33 Pin=TB6612-PWMB
+Added Pin To Net: NetName=GPIO26 Pin=TB6612-AIN1
+Added Pin To Net: NetName=GPIO25 Pin=TB6612-AIN2
+Added Pin To Net: NetName=GPIO14 Pin=TB6612-BIN1
+Added Pin To Net: NetName=GPIO12 Pin=TB6612-BIN2
+Added Pin To Net: NetName=GPIO33 Pin=TB6612-PWMA
+Added Pin To Net: NetName=GPIO13 Pin=TB6612-PWMB
